@@ -29,8 +29,8 @@ data/
 ## ⚙️ Requirements
 
 - Python 3.10+
-- PostgreSQL 15+ with **pgvector**
-- Ollama installed (e.g., `gemma2:2b` model)
+- PostgreSQL 13+ with **pgvector**
+- Ollama installed (e.g., `gemma3:3b` model)
 
 ---
 
